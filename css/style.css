@@ -1,0 +1,32 @@
+* {
+  text-align:center;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+
+html, body, .christmas{
+  height: 100%;
+  background: #C32525;
+
+}
+
+.christmas {
+  padding-top: 100px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 50px;
+  line-height: 60px;
+  font-family: 'Open Sans', sans-serif;
+  padding-bottom: 40px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+img {
+  padding-bottom: 40px;
+}
